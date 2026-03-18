@@ -74,8 +74,6 @@ Os testes ajudaram a identificar melhorias no fluxo e na organização das infor
 
 ---
 
----
-
 ## Integrantes
 - Kauã Das Mercês Amorim
 - Monic Rabelo
