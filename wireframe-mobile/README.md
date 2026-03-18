@@ -34,15 +34,14 @@ Desenvolver um fluxo de interface que permita ao aluno realizar sua principal ta
 ## 🔄 Fluxo do Usuário
 O protótipo apresenta **dois caminhos distintos** para a realização da mesma tarefa:
 
-### Caminho 1:
-- Tela inicial (dashboard)
-- Acesso direto às disciplinas
-- Visualização de informações (notas/horários)
+### Caminho 1 - Tela Inicial
+- Tela Inicial
+- Acesso rápido: guias diferentes para **Atividades**, Disciplinas, Avisos e outras funcionalidades
+- Acesso rápido na parte inferior da Tela Inicial.
 
-### Caminho 2:
-- Menu de navegação
-- Seleção da opção desejada
-- Acesso às mesmas informações
+### Caminho 2 - Menu Inferior
+- Menu inferior
+- Contém Disciplinas, Avisos e **Atividades**
 
 ---
 
@@ -59,9 +58,9 @@ A estrutura do aplicativo foi organizada para facilitar a navegação, contendo:
 ## Protótipo
 O wireframe foi desenvolvido no Figma com foco em baixa fidelidade, priorizando:
 
-- Estrutura da interface  
 - Organização das informações  
-- Navegação clara  
+- Navegação clara
+- Organização de grandes volumes de informação
 
 
 ## Testes de Usabilidade
@@ -69,7 +68,7 @@ Foram realizados testes com usuários para validar:
 
 - Facilidade de uso  
 - Clareza das telas  
-- Eficiência na realização da tarefa  
+- Eficiência na realização da tarefa de maneira rápida 
 
 Os testes ajudaram a identificar melhorias no fluxo e na organização das informações.
 
