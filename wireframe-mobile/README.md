@@ -24,14 +24,14 @@ Desenvolver um fluxo de interface que permita ao aluno realizar sua principal ta
 
 ---
 
-## 👤 Tarefa Principal do Usuário
+## Tarefa Principal do Usuário
 
 - Descobrir quais atividades precisa entregar na semana e enviar uma delas.
 - Usuário:  Universitário desorganizado, sobrecarregado e com pouco tempo disponível.
   
 ---
 
-## 🔄 Fluxo do Usuário
+## Fluxo do Usuário
 O protótipo apresenta **dois caminhos distintos** para a realização da mesma tarefa:
 
 ### Caminho 1 - Tela Inicial
